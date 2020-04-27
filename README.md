@@ -9,7 +9,7 @@ You'll find code presented in golang Tutorial youtube series in this repo
 1. Mac OS
 
    ```bash
-   bash env GOOS=darwin GOARCH=amd64 go build main.go
+   env GOOS=darwin GOARCH=amd64 go build main.go
    ```
 
    
