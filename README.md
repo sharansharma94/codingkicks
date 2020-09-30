@@ -2,7 +2,7 @@
 
 ### Golang tutorial
 
-You'll find code presented in golang Tutorial youtube series in this repo
+You will find code presented in golang Tutorial youtube series in this repo
 
 #### Create golang executables
 
